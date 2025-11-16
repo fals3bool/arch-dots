@@ -1,0 +1,46 @@
+{
+  "custom/rofi": {
+    "icon": " ",
+    "tooltip": "Rofi",
+    "executeOnAction": "",
+    "hideOnEmpty": false,
+    "actions": {
+      "onLeftClick": "rofi -show drun",
+      "onRightClick": "killall rofi",
+      "onMiddleClick": ""
+    }
+  },
+  "custom/terminal": {
+    "icon": "󰆍",
+    "tooltip": "Terminal",
+    "executeOnAction": "",
+    "hideOnEmpty": false,
+    "actions": {
+      "onLeftClick": "kitty $HOME",
+      "onRightClick": "",
+      "onMiddleClick": ""
+    }
+  },
+  "custom/firefox": {
+    "icon": "󰈹",
+    "tooltip": "Firefox",
+    "executeOnAction": "",
+    "hideOnEmpty": false,
+    "actions": {
+      "onLeftClick": "firefox",
+      "onRightClick": "",
+      "onMiddleClick": ""
+    }
+  },
+  "custom/filemanager": {
+    "icon": " ",
+    "tooltip": "Yazi / Nautilus",
+    "executeOnAction": "",
+    "hideOnEmpty": false,
+    "actions": {
+      "onLeftClick": "kitty --app-id yazi -e yazi $HOME",
+      "onRightClick": "nautilus $HOME",
+      "onMiddleClick": ""
+    }
+  }
+}
