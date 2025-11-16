@@ -1,9 +1,9 @@
 ## My Arch Linux config files
 
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_0.png)
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_1.png)
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_2.png)
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_3.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_0.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_1.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_2.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_3.png)
 
 Background Artists:
 - [OkaMK💎](https://x.com/mk_oka)
@@ -14,8 +14,8 @@ Background Artists:
 
 I also use `sddm` with [silent](https://github.com/uiriansan/SilentSDDM) theme, made by [uiriansan](https://github.com/uiriansan).
 
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_4.png)
-![demosnapshot](https://github.com/fals3bool/hypr-dots/blob/master/hypr/demo/snapshot_5.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_4.png)
+![demosnapshot](https://github.com/fals3bool/arch-dots/blob/main/hypr/demo/snapshot_5.png)
 
 ---
 
