@@ -582,5 +582,8 @@
   "bar.media.truncation": true,
   "bar.media.show_active_only": true,
   "bar.media.truncation_size": 90,
-  "theme.bar.buttons.media.spacing": "0.7em"
+  "theme.bar.buttons.media.spacing": "0.7em",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "gromit-mpx -o 1",
+  "menus.dashboard.shortcuts.left.shortcut4.tooltip": "Screen Drawer",
+  "menus.dashboard.shortcuts.left.shortcut4.icon": "󰽉"
 }
